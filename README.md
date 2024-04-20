@@ -14,5 +14,5 @@ go run .
 
 ## Getting Testing
 
-1. Have [REST Client] (https://marketplace.visualstudio.com/items?itemName=humao.rest-client) plugin installed for your VSC.
-2. Run \*.http scripts from api-test folder of the project.
+1. Have [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) plugin installed for your VSC.
+2. Run \*.http scripts from /api-test of the project's root folder.
